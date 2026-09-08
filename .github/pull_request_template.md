@@ -1,15 +1,17 @@
-## Description
+> 🌐 本文档由 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 翻译,英文原版见原项目。
 
-* a simple description of what you're trying to accomplish
-* a summary of changes in code
-* which issues it fixes, if any
+## 描述
 
-## Screenshots/videos:
+* 简要说明你想要实现的目标
+* 概述代码层面的改动
+* 修复了哪些 issue(如有)
+
+## 截图/视频:
 
 
-## Checklist:
+## 检查清单:
 
-- [ ] I have read [contributing wiki page](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Contributing)
-- [ ] I have performed a self-review of my own code
-- [ ] My code follows the [style guidelines](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Contributing#code-style)
-- [ ] My code passes [tests](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Tests)
+- [ ] 我已阅读[贡献指南 wiki 页面](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Contributing)
+- [ ] 我已对自己的代码进行了自查
+- [ ] 我的代码遵循[代码风格规范](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Contributing#code-style)
+- [ ] 我的代码通过了[测试](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Tests)
